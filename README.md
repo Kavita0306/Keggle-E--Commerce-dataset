@@ -1,2 +1,2 @@
 # Keggle-E--Commerce-dataset
-Hello all, I would like to share my recently created dashboard for Tata  virtual experience. In this project, I leveraged the online retail store dataset provided by this program. The purpose of the project is to generate valuable insights 
+Hi,I would like to share my recently created Project on Keggle dataset.In this project,I leveraged the online retail store dataset of UK based company for the year 2010-11.
